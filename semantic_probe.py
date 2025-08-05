@@ -7,10 +7,18 @@ This script demonstrates the technical feasibility of detecting and analyzing
 "semantic stop signs" - weaponized words used to shut down discourse. It's an 
 educational tool accompanying the NeoConcepts post "Forging the Semantic Key."
 
+CONCEPTUAL EVOLUTION:
+While this tool detects 'semantic stop signs,' our broader research has evolved 
+this concept into the more sophisticated 'Narrative Trap' model. Semantic stop 
+signs end conversations; narrative traps control the interpretation of ongoing 
+events by creating frameworks that predetermine how all future evidence will be 
+understood. This tool helps evidence the mechanics of both phenomena.
+
 WHAT THIS IS:
 - A simple demonstration of AI-assisted semantic analysis
 - An educational tool showing how detection might work
 - A starting point for understanding linguistic manipulation
+- A proof-of-concept for the Narrative Trap model validation
 
 WHAT THIS IS NOT:
 - A production-ready tool
