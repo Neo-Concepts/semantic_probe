@@ -1,10 +1,12 @@
-# Semantic Probe - A Proof of Concept
+# Semantic Probe - Detecting Semantic Warfare Patterns
 
-This script accompanies the NeoConcepts blog post ["Forging the Semantic Key: AI-Assisted Resilience in an Age of Information Warfare"](https://neo-concepts.com/posts/forging-the-semantic-key/).
+This script accompanies the NeoConcepts blog posts ["Forging the Semantic Key: AI-Assisted Resilience in an Age of Information Warfare"](https://neo-concepts.com/posts/forging-the-semantic-key/) and ["The Two Jaguars: A Case Study in Semantic Warfare vs. Business Strategy"](https://neo-concepts.com/posts/jaguar-semantic-warfare-case-study/).
 
 ## Purpose
 
-`semantic_probe.py` demonstrates the technical feasibility of detecting "semantic stop signs" - weaponized words used to shut down discourse. This is an **educational tool**, not a production application.
+`semantic_probe.py` demonstrates the technical feasibility of detecting semantic warfare patterns in text. Originally designed to identify "semantic stop signs," our research has evolved this into the more sophisticated "Narrative Trap" model through real-world validation.
+
+This is an **educational tool** that reveals linguistic manipulation patterns, not a production application.
 
 ## Quick Start
 
@@ -21,9 +23,16 @@ python semantic_probe.py "This woke agenda is just more authoritarian censorship
 
 ## What It Does
 
-1. **Detects Stop Signs**: Identifies potentially weaponized terms from a curated list
-2. **Analyzes Context**: Examines surrounding words and sentiment
-3. **Assesses Risk**: Evaluates overall manipulation likelihood
+1. **Detects Semantic Patterns**: Identifies potentially weaponized terms from a curated list
+2. **Analyzes Context**: Examines surrounding words, sentiment, and rhetorical function
+3. **Reveals Manipulation Techniques**: Shows categorical shutdown, threat amplification, and other patterns
+4. **Assesses Risk**: Evaluates overall manipulation likelihood based on multiple factors
+
+## Conceptual Evolution
+
+**Semantic Stop Signs** → **Narrative Traps**
+
+Our analysis of real-world semantic warfare (like the Jaguar rebrand controversy) revealed that weaponized language doesn't just end conversations—it creates interpretive frameworks that predetermine how all future evidence will be understood. This tool helps identify both phenomena.
 
 ## Known Limitations
 
@@ -68,9 +77,15 @@ MANIPULATION RISK: HIGH
 - `semantic_probe.py` - Main script
 - This README
 
+## Real-World Validation
+
+The tool was validated through analysis of the 2024 Jaguar rebrand controversy, where it successfully identified how the "woke" label created a narrative trap that captured all subsequent business data (sales declines, leadership changes) and forced it to be interpreted as proof of the original semantic attack.
+
 ## Philosophy
 
-This tool embodies the blog post's central thesis: the semantic key to information warfare isn't an algorithm, but a methodology. The script's limitations prove why human wisdom must remain in the loop.
+This tool embodies the NeoConcepts thesis: real thinking tools don't just organize ideas—they force uncomfortable reckonings with reality. The semantic key to information warfare isn't an algorithm, but a methodology that combines pattern detection with human critical thinking.
+
+The script's limitations are educational features that demonstrate why semantic warfare detection requires human-AI collaboration, not automation.
 
 ---
 
